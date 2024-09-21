@@ -1,2 +1,2 @@
-# LISTA-3
+# LISTA-3-Erinaldo
 LAÇOS DE REPETIÇÃO
